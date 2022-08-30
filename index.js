@@ -4,4 +4,4 @@ const func = () => {
 
 const bugFix1 = '1'
 
-const j=0
+const j=0;
