@@ -1,3 +1,3 @@
 const func = () => {
-  console.log('function')
+  console.log('function bugfix')
 }
