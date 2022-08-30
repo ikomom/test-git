@@ -3,3 +3,5 @@ const func = () => {
 }
 
 const bugFix1 = '1'
+
+const j=0
